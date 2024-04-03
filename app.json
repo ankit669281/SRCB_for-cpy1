@@ -13,23 +13,23 @@
     "success_url": "https://t.me/srcb_here",
     "env": {
         "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "f85596b49120940b91395fe87fe81aac",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": " 29693145",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "7070933915:AAHHnjdIpp5L2EMF7WSMIDFcnPRk-uqr54k",
             "value": ""
         },
         "AUTH": {
-            "description": "owner user id. who will get access to do batch command",
+            "description": "6226272085",
             "value": ""
         },
         "SESSION": {
-            "description": "pyrogram string session. Get from- https://replit.com/@SpEcHiDe/GenerateStringSession",
+            "description": "BQDo1X8AfEGkTMDzWNAio3VnD1dc6lDJYdLU1wFcv99f7j3Lqskj4NraQt0OijLzxHsonuhYUXdqizr798EnIHEDopcC-WaZ22sS1EiEcVp2u5lRrOntysAxVZ78GqHiu7TQnoQGmW03oo57Ja9Xp32NVP2FUBd-ZHHPv1Y5iB4dmTOgQqP_c13pTVvvk_hTuamwBlxGOnb_6CLbYrmG2Or5He4Qaoa4Z6-qrNQFjhNKIeefLVAsE5raNDZdm_igimzRJ1SFKUBuPds4r5DSvrgR7I0WOS4djjrXBqsz3zRpzGuGJ4TtrC2kxhuAy6KazsWoH9HIcc7anpz6iC5qPy8OAswtFQAAAAFzHV9VAA",
             "value": ""
         },
         "FORCESUB": {
